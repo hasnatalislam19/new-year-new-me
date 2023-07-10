@@ -1,0 +1,127 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.primary-btn {
+    position: absolute;
+    top: 378px;
+    left: 560px;
+
+
+    margin: 320px 400px 100px 450px;
+
+    width: 160px;
+    height: 64px;
+
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+    border: none;
+
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.banner {
+    background-image: url(images/banner/banner3.png);
+    width: auto;
+    height: 808px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+}
+
+.banner-info {
+    align-items: center;
+    justify-content: center;
+
+
+    padding-top: 216px;
+
+    /* right padding */
+    padding-right: 100px;
+
+}
+
+
+.banner-info>.banner-title {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.banner-info>.des {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+
+/* my failure section */
+.my-failure {
+
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.img-person {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.failure-img {
+
+  
+}
+
+.my-failure-info {
+    margin-top: 200px;
+    padding left: 800px;
+   
+
+
+}
+
+.my-failure-info>.title {
+    color: #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.my-failure-info>.des {
+    color: #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.li {
+    color: #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
